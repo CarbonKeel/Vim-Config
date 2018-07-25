@@ -1,2 +1,2 @@
 # Vim-Config
-settings
+Settings
